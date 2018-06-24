@@ -1,6 +1,6 @@
 # vue-admin-order
 
-> A Vue.js project
+https://ewanhohou.github.io/vue-admin-order/
 
 ## Build Setup
 
