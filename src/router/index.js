@@ -10,7 +10,8 @@ Vue.use(Router)
 export default new Router({
   routes: [{
       path: '/',
-      redirect: '/dashboard'
+      name: 'Home',
+      component: DashBoard,
     },
     {
       path: '/dashboard',
